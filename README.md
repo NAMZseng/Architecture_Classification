@@ -11,7 +11,7 @@ Architecture_Classification
 
 ## 测试结果
 
-准确率：**0.853**
+![](./result/result.png)
 
 ![](./result/confusion_matrix.png)
 
