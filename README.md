@@ -7,7 +7,7 @@ Architecture_Classification
 
 ## 网络结构
 
-![](./model/Simple Net Framework.png)
+![](./model/Simple_Net_Framework.png)
 
 ## 测试结果
 
